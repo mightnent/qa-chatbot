@@ -12,14 +12,14 @@ export default function Home() {
       
       <df-messenger
         intent="WELCOME"
-        chat-title="test"
+        chat-title="SKML"
         agent-id="f873b93c-0392-4a81-9708-c946b44eacdb"
         language-code="en"
         expand="true"
       >
       </df-messenger>
   
-      <h1>hi</h1> 
+      <h1 style={{textAlign:'center',fontWeight:'bold',marginTop:'50px'}}>This is a demo for SKML</h1> 
      
 
 
